@@ -7,13 +7,9 @@
 
 <br>
 
-<p align="center"> <kbd><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinagrawalgit&theme=darkhub&no-frame=false&no-bg=false&margin-w=20" alt="nitinagrawalgit" /><kbd></a> </p>
+- 🌱 I’m currently learning ```Background Services in Android```
 
-<br>
-
-- 🌱 I’m currently learning ```Sqlite Databases in Android```
-
-- 💬 Ask me about ```C++, Java, DSA, Android Dev```
+- 💬 Ask me about ```C++, Java, Kotlin, DSA, Android Dev, SQLite```
 
 - 📫 How to reach me ```2020pgicsnitin53@poornima.org```
 
@@ -26,10 +22,3 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></kbd> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></kbd> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></kbd> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></kbd> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></kbd> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <kbd><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/></kbd> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></kbd> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></kbd> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></kbd> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <kbd><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/></kbd> </a> </p>
 
 <br>
-  
-<table>
-   <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=NitinAgrawalgit&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="NitinAgrawalgit" />
-         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NitinAgrawalgit&theme=dark&hide_border=false" /></td>
-   </tr>
-</table>
